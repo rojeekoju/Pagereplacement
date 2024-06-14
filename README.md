@@ -1,4 +1,5 @@
-Summary
+#Summary
+
 In this project, you will be working individually to implement three page-replacement algorithms: FIFO, LRU and OPT (optimal). First, your program will use a specific set of 3 reference strings (listed below). Then, your program will generate random page-reference strings where page numbers range from 0 to 9. Apply the random page-reference string to each algorithm and record the number of page faults incurred by each algorithm. Pass the number of page frames to the program at startup. You may implement this program in Java or Python.
 
 Here is an abstract class you may choose to include in your program:
